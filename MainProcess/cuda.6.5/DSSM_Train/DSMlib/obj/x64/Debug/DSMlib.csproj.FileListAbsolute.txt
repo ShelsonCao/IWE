@@ -1,0 +1,27 @@
+C:\Users\Shaosheng\Desktop\Sent2Vec\src\cuda.6.5\DSSM_Train\DSMlib\bin\x64\Debug\Cudalib.dll
+C:\Users\Shaosheng\Desktop\Sent2Vec\src\cuda.6.5\DSSM_Train\DSMlib\bin\x64\Debug\DSSM_Train.exe.config
+C:\Users\Shaosheng\Desktop\Sent2Vec\src\cuda.6.5\DSSM_Train\DSMlib\bin\x64\Debug\DSSM_Train.exe
+C:\Users\Shaosheng\Desktop\Sent2Vec\src\cuda.6.5\DSSM_Train\DSMlib\bin\x64\Debug\DSSM_Train.pdb
+C:\Users\Shaosheng\Desktop\Sent2Vec\src\cuda.6.5\DSSM_Train\DSMlib\obj\x64\Debug\DSSM_Train.exe
+C:\Users\Shaosheng\Desktop\Sent2Vec\src\cuda.6.5\DSSM_Train\DSMlib\obj\x64\Debug\DSSM_Train.pdb
+C:\Users\Shaosheng\Desktop\Sent2Vec\src\cuda.6.5\DSSM_Train\DSMlib\obj\x64\Debug\DSMlib.csprojResolveAssemblyReference.cache
+C:\Users\Shelson Cao\Desktop\Sent2Vec\src\cuda.6.5\DSSM_Train\DSMlib\bin\x64\Debug\DSSM_Train.exe.config
+C:\Users\Shelson Cao\Desktop\Sent2Vec\src\cuda.6.5\DSSM_Train\DSMlib\obj\x64\Debug\DSSM_Train.exe
+C:\Users\Shelson Cao\Desktop\Sent2Vec\src\cuda.6.5\DSSM_Train\DSMlib\obj\x64\Debug\DSSM_Train.pdb
+C:\Users\Shelson Cao\Desktop\Sent2Vec\src\cuda.6.5\DSSM_Train\DSMlib\bin\x64\Debug\Cudalib.dll
+C:\Users\Shelson Cao\Desktop\Sent2Vec\src\cuda.6.5\DSSM_Train\DSMlib\bin\x64\Debug\DSSM_Train.exe
+C:\Users\Shelson Cao\Desktop\Sent2Vec\src\cuda.6.5\DSSM_Train\DSMlib\bin\x64\Debug\DSSM_Train.pdb
+C:\Users\Shelson Cao\Desktop\Sent2Vec\src\cuda.6.5\DSSM_Train\DSMlib\obj\x64\Debug\DSMlib.csprojResolveAssemblyReference.cache
+C:\Users\Shaosheng\Desktop\Sent2Vec\src\cuda.6.5\DSSM_Train\DSMlib\bin\x64\Debug\Util.exe
+C:\Users\Shaosheng\Desktop\Sent2Vec\src\cuda.6.5\DSSM_Train\DSMlib\bin\x64\Debug\Util.pdb
+C:\Users\Shaosheng\Desktop\cs2vec\src\cuda.6.5\DSSM_Train\DSMlib\bin\x64\Debug\Cudalib.dll
+C:\Users\Shaosheng\Desktop\cs2vec\src\cuda.6.5\DSSM_Train\DSMlib\bin\x64\Debug\DSSM_Train.exe.config
+C:\Users\Shaosheng\Desktop\cs2vec\src\cuda.6.5\DSSM_Train\DSMlib\bin\x64\Debug\DSSM_Train.exe
+C:\Users\Shaosheng\Desktop\cs2vec\src\cuda.6.5\DSSM_Train\DSMlib\bin\x64\Debug\DSSM_Train.pdb
+C:\Users\Shaosheng\Desktop\cs2vec\src\cuda.6.5\DSSM_Train\DSMlib\bin\x64\Debug\Util.exe
+C:\Users\Shaosheng\Desktop\cs2vec\src\cuda.6.5\DSSM_Train\DSMlib\bin\x64\Debug\Util.pdb
+C:\Users\Shaosheng\Desktop\cs2vec\src\cuda.6.5\DSSM_Train\DSMlib\obj\x64\Debug\DSMlib.csprojResolveAssemblyReference.cache
+C:\Users\Shaosheng\Desktop\cs2vec\src\cuda.6.5\DSSM_Train\DSMlib\obj\x64\Debug\DSSM_Train.exe
+C:\Users\Shaosheng\Desktop\cs2vec\src\cuda.6.5\DSSM_Train\DSMlib\obj\x64\Debug\DSSM_Train.pdb
+C:\Users\Shaosheng\Desktop\cs2vec\src\cuda.6.5\DSSM_Train\DSMlib\bin\x64\Debug\jlib.dll
+C:\Users\Shaosheng\Desktop\cs2vec\src\cuda.6.5\DSSM_Train\DSMlib\bin\x64\Debug\jlib.pdb

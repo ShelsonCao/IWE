@@ -1,0 +1,16 @@
+C:\Users\Shaosheng\Desktop\Sent2Vec\src\cs\ComputeLogPD\bin\x64\Release\ComputeLogPD.exe.config
+C:\Users\Shaosheng\Desktop\Sent2Vec\src\cs\ComputeLogPD\bin\x64\Release\ComputeLogPD.exe
+C:\Users\Shaosheng\Desktop\Sent2Vec\src\cs\ComputeLogPD\bin\x64\Release\ComputeLogPD.pdb
+C:\Users\Shaosheng\Desktop\Sent2Vec\src\cs\ComputeLogPD\bin\x64\Release\jlib.dll
+C:\Users\Shaosheng\Desktop\Sent2Vec\src\cs\ComputeLogPD\bin\x64\Release\jlib.pdb
+C:\Users\Shaosheng\Desktop\Sent2Vec\src\cs\ComputeLogPD\obj\x64\Release\ComputeLogPD.csprojResolveAssemblyReference.cache
+C:\Users\Shaosheng\Desktop\Sent2Vec\src\cs\ComputeLogPD\obj\x64\Release\ComputeLogPD.exe
+C:\Users\Shaosheng\Desktop\Sent2Vec\src\cs\ComputeLogPD\obj\x64\Release\ComputeLogPD.pdb
+C:\Users\Shelson Cao\Desktop\Sent2Vec\src\cs\ComputeLogPD\bin\x64\Release\ComputeLogPD.exe.config
+C:\Users\Shelson Cao\Desktop\Sent2Vec\src\cs\ComputeLogPD\bin\x64\Release\ComputeLogPD.exe
+C:\Users\Shelson Cao\Desktop\Sent2Vec\src\cs\ComputeLogPD\bin\x64\Release\ComputeLogPD.pdb
+C:\Users\Shelson Cao\Desktop\Sent2Vec\src\cs\ComputeLogPD\bin\x64\Release\jlib.dll
+C:\Users\Shelson Cao\Desktop\Sent2Vec\src\cs\ComputeLogPD\bin\x64\Release\jlib.pdb
+C:\Users\Shelson Cao\Desktop\Sent2Vec\src\cs\ComputeLogPD\obj\x64\Release\ComputeLogPD.csprojResolveAssemblyReference.cache
+C:\Users\Shelson Cao\Desktop\Sent2Vec\src\cs\ComputeLogPD\obj\x64\Release\ComputeLogPD.exe
+C:\Users\Shelson Cao\Desktop\Sent2Vec\src\cs\ComputeLogPD\obj\x64\Release\ComputeLogPD.pdb

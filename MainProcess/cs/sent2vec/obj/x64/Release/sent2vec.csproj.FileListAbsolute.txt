@@ -1,0 +1,21 @@
+C:\Users\Shaosheng\Desktop\Sent2Vec\src\cs\sent2vec\bin\x64\Release\sent2vec.exe.config
+C:\Users\Shaosheng\Desktop\Sent2Vec\src\cs\sent2vec\bin\x64\Release\sent2vec.exe
+C:\Users\Shaosheng\Desktop\Sent2Vec\src\cs\sent2vec\bin\x64\Release\sent2vec.pdb
+C:\Users\Shaosheng\Desktop\Sent2Vec\src\cs\sent2vec\bin\x64\Release\jlib.dll
+C:\Users\Shaosheng\Desktop\Sent2Vec\src\cs\sent2vec\bin\x64\Release\jlib.pdb
+C:\Users\Shaosheng\Desktop\Sent2Vec\src\cs\sent2vec\obj\x64\Release\sent2vec.csprojResolveAssemblyReference.cache
+C:\Users\Shaosheng\Desktop\Sent2Vec\src\cs\sent2vec\obj\x64\Release\sent2vec.exe
+C:\Users\Shaosheng\Desktop\Sent2Vec\src\cs\sent2vec\obj\x64\Release\sent2vec.pdb
+C:\Users\Shelson Cao\Desktop\Sent2Vec\src\cs\sent2vec\bin\x64\Release\sent2vec.exe.config
+C:\Users\Shelson Cao\Desktop\Sent2Vec\src\cs\sent2vec\obj\x64\Release\sent2vec.exe
+C:\Users\Shelson Cao\Desktop\Sent2Vec\src\cs\sent2vec\obj\x64\Release\sent2vec.pdb
+C:\Users\Shelson Cao\Desktop\Sent2Vec\src\cs\sent2vec\bin\x64\Release\sent2vec.exe
+C:\Users\Shelson Cao\Desktop\Sent2Vec\src\cs\sent2vec\bin\x64\Release\sent2vec.pdb
+C:\Users\Shelson Cao\Desktop\Sent2Vec\src\cs\sent2vec\bin\x64\Release\jlib.dll
+C:\Users\Shelson Cao\Desktop\Sent2Vec\src\cs\sent2vec\bin\x64\Release\jlib.pdb
+C:\Users\Shelson Cao\Desktop\Sent2Vec\src\cs\sent2vec\obj\x64\Release\sent2vec.csprojResolveAssemblyReference.cache
+C:\Users\Shaosheng\Desktop\Sent2Vec\src\cs\sent2vec\bin\x64\Release\Cudalib.dll
+C:\Users\Shaosheng\Desktop\Sent2Vec\src\cs\sent2vec\bin\x64\Release\DSSM_Train.exe
+C:\Users\Shaosheng\Desktop\Sent2Vec\src\cs\sent2vec\bin\x64\Release\Util.exe
+C:\Users\Shaosheng\Desktop\Sent2Vec\src\cs\sent2vec\bin\x64\Release\Util.pdb
+C:\Users\Shaosheng\Desktop\Sent2Vec\src\cs\sent2vec\bin\x64\Release\DSSM_Train.pdb

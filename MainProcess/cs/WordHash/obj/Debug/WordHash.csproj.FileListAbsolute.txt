@@ -1,0 +1,16 @@
+C:\Users\Shaosheng\Desktop\Sent2Vec\src\cs\WordHash\bin\Debug\WordHash.exe.config
+C:\Users\Shaosheng\Desktop\Sent2Vec\src\cs\WordHash\bin\Debug\WordHash.exe
+C:\Users\Shaosheng\Desktop\Sent2Vec\src\cs\WordHash\bin\Debug\WordHash.pdb
+C:\Users\Shaosheng\Desktop\Sent2Vec\src\cs\WordHash\bin\Debug\jlib.dll
+C:\Users\Shaosheng\Desktop\Sent2Vec\src\cs\WordHash\bin\Debug\jlib.pdb
+C:\Users\Shaosheng\Desktop\Sent2Vec\src\cs\WordHash\obj\Debug\WordHash.csprojResolveAssemblyReference.cache
+C:\Users\Shaosheng\Desktop\Sent2Vec\src\cs\WordHash\obj\Debug\WordHash.exe
+C:\Users\Shaosheng\Desktop\Sent2Vec\src\cs\WordHash\obj\Debug\WordHash.pdb
+C:\Users\Shelson Cao\Desktop\Sent2Vec\src\cs\WordHash\bin\Debug\WordHash.exe.config
+C:\Users\Shelson Cao\Desktop\Sent2Vec\src\cs\WordHash\bin\Debug\WordHash.exe
+C:\Users\Shelson Cao\Desktop\Sent2Vec\src\cs\WordHash\bin\Debug\WordHash.pdb
+C:\Users\Shelson Cao\Desktop\Sent2Vec\src\cs\WordHash\bin\Debug\jlib.dll
+C:\Users\Shelson Cao\Desktop\Sent2Vec\src\cs\WordHash\bin\Debug\jlib.pdb
+C:\Users\Shelson Cao\Desktop\Sent2Vec\src\cs\WordHash\obj\Debug\WordHash.csprojResolveAssemblyReference.cache
+C:\Users\Shelson Cao\Desktop\Sent2Vec\src\cs\WordHash\obj\Debug\WordHash.exe
+C:\Users\Shelson Cao\Desktop\Sent2Vec\src\cs\WordHash\obj\Debug\WordHash.pdb

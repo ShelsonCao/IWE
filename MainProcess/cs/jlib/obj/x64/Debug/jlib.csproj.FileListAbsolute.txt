@@ -1,0 +1,15 @@
+C:\Users\Shaosheng\Desktop\Sent2Vec\src\cs\jlib\bin\x64\Debug\jlib.dll
+C:\Users\Shaosheng\Desktop\Sent2Vec\src\cs\jlib\bin\x64\Debug\jlib.pdb
+C:\Users\Shaosheng\Desktop\Sent2Vec\src\cs\jlib\obj\x64\Debug\jlib.dll
+C:\Users\Shaosheng\Desktop\Sent2Vec\src\cs\jlib\obj\x64\Debug\jlib.pdb
+C:\Users\Shelson Cao\Desktop\Sent2Vec\src\cs\jlib\bin\x64\Debug\jlib.dll
+C:\Users\Shelson Cao\Desktop\Sent2Vec\src\cs\jlib\bin\x64\Debug\jlib.pdb
+C:\Users\Shelson Cao\Desktop\Sent2Vec\src\cs\jlib\obj\x64\Debug\jlib.dll
+C:\Users\Shelson Cao\Desktop\Sent2Vec\src\cs\jlib\obj\x64\Debug\jlib.pdb
+C:\Users\Shelson Cao\Desktop\Sent2Vec\src\cs\jlib\obj\x64\Debug\jlib.csprojResolveAssemblyReference.cache
+C:\Users\Shaosheng\Desktop\Sent2Vec\src\cs\jlib\obj\x64\Debug\jlib.csprojResolveAssemblyReference.cache
+C:\Users\Shaosheng\Desktop\cs2vec\src\cs\jlib\bin\x64\Debug\jlib.dll
+C:\Users\Shaosheng\Desktop\cs2vec\src\cs\jlib\bin\x64\Debug\jlib.pdb
+C:\Users\Shaosheng\Desktop\cs2vec\src\cs\jlib\obj\x64\Debug\jlib.csprojResolveAssemblyReference.cache
+C:\Users\Shaosheng\Desktop\cs2vec\src\cs\jlib\obj\x64\Debug\jlib.dll
+C:\Users\Shaosheng\Desktop\cs2vec\src\cs\jlib\obj\x64\Debug\jlib.pdb

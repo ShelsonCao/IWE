@@ -1,0 +1,7 @@
+C:\Users\Shelson Cao\Desktop\Sent2Vec\src\cuda.6.5\DSSM_Train\DSMlib\bin\Release\Cudalib.dll
+C:\Users\Shelson Cao\Desktop\Sent2Vec\src\cuda.6.5\DSSM_Train\DSMlib\bin\Release\DSSM_Train.exe.config
+C:\Users\Shelson Cao\Desktop\Sent2Vec\src\cuda.6.5\DSSM_Train\DSMlib\bin\Release\DSSM_Train.exe
+C:\Users\Shelson Cao\Desktop\Sent2Vec\src\cuda.6.5\DSSM_Train\DSMlib\bin\Release\DSSM_Train.pdb
+C:\Users\Shelson Cao\Desktop\Sent2Vec\src\cuda.6.5\DSSM_Train\DSMlib\obj\Release\DSMlib.csprojResolveAssemblyReference.cache
+C:\Users\Shelson Cao\Desktop\Sent2Vec\src\cuda.6.5\DSSM_Train\DSMlib\obj\Release\DSSM_Train.exe
+C:\Users\Shelson Cao\Desktop\Sent2Vec\src\cuda.6.5\DSSM_Train\DSMlib\obj\Release\DSSM_Train.pdb

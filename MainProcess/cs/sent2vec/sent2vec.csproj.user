@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <StartArguments>/inSrcModel cdssm_model\smodel /inSrcVocab cdssm_model\vocab /inSrcModelType CDSSM /inSrcMaxRetainedSeqLength 20 /inTgtModel cdssm_model\tmodel /inTgtVocab cdssm_model\vocab /inTgtModelType CDSSM /inTgtMaxRetainedSeqLength 20 /inFilename pairs.txt /outFilenamePrefix cout</StartArguments>
+    <StartWorkingDirectory>C:\Users\Shelson Cao\Desktop\Sent2Vec\src\cs</StartWorkingDirectory>
+    <RemoteDebugEnabled>false</RemoteDebugEnabled>
+  </PropertyGroup>
+</Project>

@@ -1,0 +1,24 @@
+C:\Users\Shaosheng\Desktop\Sent2Vec\src\cs\ComputeLogPD\bin\x64\Debug\ComputeLogPD.exe.config
+C:\Users\Shaosheng\Desktop\Sent2Vec\src\cs\ComputeLogPD\bin\x64\Debug\ComputeLogPD.exe
+C:\Users\Shaosheng\Desktop\Sent2Vec\src\cs\ComputeLogPD\bin\x64\Debug\ComputeLogPD.pdb
+C:\Users\Shaosheng\Desktop\Sent2Vec\src\cs\ComputeLogPD\bin\x64\Debug\jlib.dll
+C:\Users\Shaosheng\Desktop\Sent2Vec\src\cs\ComputeLogPD\bin\x64\Debug\jlib.pdb
+C:\Users\Shaosheng\Desktop\Sent2Vec\src\cs\ComputeLogPD\obj\x64\Debug\ComputeLogPD.csprojResolveAssemblyReference.cache
+C:\Users\Shaosheng\Desktop\Sent2Vec\src\cs\ComputeLogPD\obj\x64\Debug\ComputeLogPD.exe
+C:\Users\Shaosheng\Desktop\Sent2Vec\src\cs\ComputeLogPD\obj\x64\Debug\ComputeLogPD.pdb
+C:\Users\Shelson Cao\Desktop\Sent2Vec\src\cs\ComputeLogPD\bin\x64\Debug\ComputeLogPD.exe.config
+C:\Users\Shelson Cao\Desktop\Sent2Vec\src\cs\ComputeLogPD\bin\x64\Debug\ComputeLogPD.exe
+C:\Users\Shelson Cao\Desktop\Sent2Vec\src\cs\ComputeLogPD\bin\x64\Debug\ComputeLogPD.pdb
+C:\Users\Shelson Cao\Desktop\Sent2Vec\src\cs\ComputeLogPD\bin\x64\Debug\jlib.dll
+C:\Users\Shelson Cao\Desktop\Sent2Vec\src\cs\ComputeLogPD\bin\x64\Debug\jlib.pdb
+C:\Users\Shelson Cao\Desktop\Sent2Vec\src\cs\ComputeLogPD\obj\x64\Debug\ComputeLogPD.csprojResolveAssemblyReference.cache
+C:\Users\Shelson Cao\Desktop\Sent2Vec\src\cs\ComputeLogPD\obj\x64\Debug\ComputeLogPD.exe
+C:\Users\Shelson Cao\Desktop\Sent2Vec\src\cs\ComputeLogPD\obj\x64\Debug\ComputeLogPD.pdb
+C:\Users\Shaosheng\Desktop\cs2vec\src\cs\ComputeLogPD\bin\x64\Debug\ComputeLogPD.exe.config
+C:\Users\Shaosheng\Desktop\cs2vec\src\cs\ComputeLogPD\bin\x64\Debug\ComputeLogPD.exe
+C:\Users\Shaosheng\Desktop\cs2vec\src\cs\ComputeLogPD\bin\x64\Debug\ComputeLogPD.pdb
+C:\Users\Shaosheng\Desktop\cs2vec\src\cs\ComputeLogPD\bin\x64\Debug\jlib.dll
+C:\Users\Shaosheng\Desktop\cs2vec\src\cs\ComputeLogPD\bin\x64\Debug\jlib.pdb
+C:\Users\Shaosheng\Desktop\cs2vec\src\cs\ComputeLogPD\obj\x64\Debug\ComputeLogPD.csprojResolveAssemblyReference.cache
+C:\Users\Shaosheng\Desktop\cs2vec\src\cs\ComputeLogPD\obj\x64\Debug\ComputeLogPD.exe
+C:\Users\Shaosheng\Desktop\cs2vec\src\cs\ComputeLogPD\obj\x64\Debug\ComputeLogPD.pdb

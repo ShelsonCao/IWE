@@ -1,0 +1,13 @@
+CUBLAS	1	#1: use BLAS to accelerate (need CUDA)
+CORPUS	../../../../../Data/corpus.txt
+BATCHSIZE	1024	#mini-batch size
+NTRIAL	100	#negative samples
+MAX_ITER	25	#maximum number of iters
+PARM_GAMMA	100	#temperature parameter
+LEARNINGRATE	0.02	#learning rate
+SOURCE_LAYER_DIM	500,100	#size of hidden layers
+TARGET_LAYER_DIM	100
+MATH_LIB	GPU
+DEVICE	1	#specify GPU when multiple GPUs are available
+FEA_LIST	l3g,root,infl
+EMB_FILE	../../../../../Data/vec

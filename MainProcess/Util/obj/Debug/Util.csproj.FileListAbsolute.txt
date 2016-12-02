@@ -1,0 +1,5 @@
+C:\Users\Shaosheng\Desktop\cs2vec\MainProcess\Util\bin\Debug\Util.exe.config
+C:\Users\Shaosheng\Desktop\cs2vec\MainProcess\Util\bin\Debug\Util.exe
+C:\Users\Shaosheng\Desktop\cs2vec\MainProcess\Util\bin\Debug\Util.pdb
+C:\Users\Shaosheng\Desktop\cs2vec\MainProcess\Util\obj\Debug\Util.exe
+C:\Users\Shaosheng\Desktop\cs2vec\MainProcess\Util\obj\Debug\Util.pdb

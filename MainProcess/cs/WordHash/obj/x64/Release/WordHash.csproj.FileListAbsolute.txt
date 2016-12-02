@@ -1,0 +1,20 @@
+C:\Users\Shaosheng\Desktop\Sent2Vec\src\cs\WordHash\bin\x64\Release\WordHash.exe.config
+C:\Users\Shaosheng\Desktop\Sent2Vec\src\cs\WordHash\bin\x64\Release\WordHash.exe
+C:\Users\Shaosheng\Desktop\Sent2Vec\src\cs\WordHash\bin\x64\Release\WordHash.pdb
+C:\Users\Shaosheng\Desktop\Sent2Vec\src\cs\WordHash\bin\x64\Release\jlib.dll
+C:\Users\Shaosheng\Desktop\Sent2Vec\src\cs\WordHash\bin\x64\Release\jlib.pdb
+C:\Users\Shaosheng\Desktop\Sent2Vec\src\cs\WordHash\obj\x64\Release\WordHash.csprojResolveAssemblyReference.cache
+C:\Users\Shaosheng\Desktop\Sent2Vec\src\cs\WordHash\obj\x64\Release\WordHash.exe
+C:\Users\Shaosheng\Desktop\Sent2Vec\src\cs\WordHash\obj\x64\Release\WordHash.pdb
+C:\Users\Shelson Cao\Desktop\Sent2Vec\src\cs\WordHash\bin\x64\Release\WordHash.exe.config
+C:\Users\Shelson Cao\Desktop\Sent2Vec\src\cs\WordHash\obj\x64\Release\WordHash.exe
+C:\Users\Shelson Cao\Desktop\Sent2Vec\src\cs\WordHash\obj\x64\Release\WordHash.pdb
+C:\Users\Shelson Cao\Desktop\Sent2Vec\src\cs\WordHash\bin\x64\Release\WordHash.exe
+C:\Users\Shelson Cao\Desktop\Sent2Vec\src\cs\WordHash\bin\x64\Release\WordHash.pdb
+C:\Users\Shelson Cao\Desktop\Sent2Vec\src\cs\WordHash\bin\x64\Release\jlib.dll
+C:\Users\Shelson Cao\Desktop\Sent2Vec\src\cs\WordHash\bin\x64\Release\jlib.pdb
+C:\Users\Shelson Cao\Desktop\Sent2Vec\src\cs\WordHash\obj\x64\Release\WordHash.csprojResolveAssemblyReference.cache
+C:\Users\Shaosheng\Desktop\Sent2Vec\src\cs\WordHash\bin\x64\Release\sent2vec.exe
+C:\Users\Shaosheng\Desktop\Sent2Vec\src\cs\WordHash\bin\x64\Release\Util.exe
+C:\Users\Shaosheng\Desktop\Sent2Vec\src\cs\WordHash\bin\x64\Release\Util.pdb
+C:\Users\Shaosheng\Desktop\Sent2Vec\src\cs\WordHash\bin\x64\Release\sent2vec.pdb

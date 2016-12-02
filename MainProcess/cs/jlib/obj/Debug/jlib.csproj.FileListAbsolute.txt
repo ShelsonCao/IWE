@@ -1,0 +1,9 @@
+C:\Users\Shaosheng\Desktop\Sent2Vec\src\cs\jlib\bin\Debug\jlib.dll
+C:\Users\Shaosheng\Desktop\Sent2Vec\src\cs\jlib\bin\Debug\jlib.pdb
+C:\Users\Shaosheng\Desktop\Sent2Vec\src\cs\jlib\obj\Debug\jlib.dll
+C:\Users\Shaosheng\Desktop\Sent2Vec\src\cs\jlib\obj\Debug\jlib.pdb
+C:\Users\Shelson Cao\Desktop\Sent2Vec\src\cs\jlib\bin\Debug\jlib.dll
+C:\Users\Shelson Cao\Desktop\Sent2Vec\src\cs\jlib\bin\Debug\jlib.pdb
+C:\Users\Shelson Cao\Desktop\Sent2Vec\src\cs\jlib\obj\Debug\jlib.csprojResolveAssemblyReference.cache
+C:\Users\Shelson Cao\Desktop\Sent2Vec\src\cs\jlib\obj\Debug\jlib.dll
+C:\Users\Shelson Cao\Desktop\Sent2Vec\src\cs\jlib\obj\Debug\jlib.pdb
