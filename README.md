@@ -1,5 +1,5 @@
 # IWE
-Source Code of Paper "Improving Word Embeddings with Convolutional Feature Learning and Subword Information" version 1.0
+Source Code of IWE version 1.0
 
 # Lisence
 The IWE project (MIT license) is based on Microsoft's [DSSM](https://www.microsoft.com/en-us/research/project/dssm) project.
