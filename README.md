@@ -11,5 +11,5 @@ If you want to use this code, please kinkdly cite our paper
   title={Improving Word Embeddings with Convolutional Feature Learning and Subword Information},<br/>
   booktitle={Proceedings of the Association for the Advancement of Artificial Intelligence},<br/>
   author={Cao, Shaosheng and Lu, Wei},<br/>
-  year={2017}
+  year={2017}<br/>
 }
