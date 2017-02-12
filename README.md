@@ -1,4 +1,4 @@
-# cs2vec
+# IWE
 Source Code of Paper "Improving Word Embeddings with Convolutional Feature Learning and Subword Information" version 1.0
 
 # Lisence
